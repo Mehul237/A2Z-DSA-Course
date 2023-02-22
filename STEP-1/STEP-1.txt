@@ -1,0 +1,28 @@
+STEP-1: Learn the Basics
+
+1. Things to know in C++
+
+   - User Input / Output
+   - Data Types
+   - If-else statements
+   - Switch statements
+   - What is are Arrays & String?
+   - For-Loops
+   - While-Loops
+   - Function ( Pass by value & Reference )
+   - Complexity (Learn Basics and Then analyse in next Steps)
+   
+2. Build-Up-Logical Thinking
+  - Do all this Patterns
+
+3. Learn STL
+  - Striver / Utkarsh
+
+4. Know Basic Maths
+  - 7-Q
+
+5. Learn Basic Recursion
+  - 9-Q
+
+6. Learn Basic Hashing
+  - 2-Q
