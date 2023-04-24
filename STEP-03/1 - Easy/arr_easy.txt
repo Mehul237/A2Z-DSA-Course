@@ -1,1 +1,11 @@
 
+Problems :
+----------
+
+01 - Largest element in an array 
+02 - Second Largest element in an array without Sorting
+03 - Check if the array is sorted
+04 - Remove duplicates from sorted array
+05 - Left rotate an array by one place
+06 - Left rotate an array by D places
+07 - Move zeros to end
