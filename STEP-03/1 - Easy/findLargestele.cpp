@@ -15,9 +15,9 @@ Brute Approach -> Sorting
 class Solution {
  public:
   int largest(vector<int> &arr, int n) {
-    sort(arr.begin(), arr.end());  // TC : O(N logN)
+    sort(arr.begin(), arr.end());   // TC : O(N logN)
     int ans = arr.size()-1;
-    return arr[ans];            // SC : O(1)
+    return arr[ans];             // SC : O(1)
   }
 };
 
@@ -40,7 +40,7 @@ public:
      
     for(int i=0; i<n; i++) {
       if (arr[i] > max_Var) {    //  max_var = max(max_var, arr[i]);
-         max_Var = arr[i];       //
+         max_Var = arr[i];       // --------------------------------
       }
     }
     return max_Var;
