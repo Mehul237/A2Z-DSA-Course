@@ -5,7 +5,7 @@
 
 /*
 -----------------
-Brute Approach
+Brute Approach -> Sorting
   TC : O(N logN)
   SC : O(1)
 -----------------
@@ -25,7 +25,7 @@ class Solution {
 
 /*
 -----------------
-Optimal Approach
+Optimal Approach -> Comparing with all elements using max variable or in-built function
   TC : O(N)
   SC : O(1)
 -----------------
