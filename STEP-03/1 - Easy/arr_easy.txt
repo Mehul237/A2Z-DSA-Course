@@ -9,3 +9,10 @@ Problems :
 05 - Left rotate an array by one place
 06 - Left rotate an array by D places
 07 - Move zeros to end
+08 - Linear Search
+09 - Find Union or Intersection of two sorted arrays
+10 - Find Missing number in an array
+11 - Maximum Consecutive ones
+12 - Find the number that appears once and others twice
+13 - Longest Subarray with given sum (+)
+14 - Logest Subarray with given sum (+ or -)
