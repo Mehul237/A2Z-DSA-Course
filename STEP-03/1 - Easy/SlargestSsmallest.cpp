@@ -1,4 +1,10 @@
 
+--------------------------------------------
+Brute force approach - Using sorting       +
+Better approach - Using two traversal      +
+Optimal - Single Pass solution             +
+--------------------------------------------
+	
 /*
 --------------------------------------------------------------
 Brute force -: Using Sorting, No duplicates present only work
