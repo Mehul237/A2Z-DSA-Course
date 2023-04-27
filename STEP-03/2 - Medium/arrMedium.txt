@@ -8,3 +8,15 @@
 04 - Kadane's Algorithm, Maximum Subarray sum
 05 - Subarray with Maximum sum
 06 - Stock Buy and Sell
+
+07 - Rearrange the array in alternating +ve and -ve items
+08 - Next Permutation
+09 - Leaders in an array Problem
+10 - Longest consecutive sequence in an array
+11 - Set matrix Zeros
+12 - Rotate Matrix by 90 degrees
+13 - Print the matrix in Spiral Manner
+14 - Find number of Subarrays with sum K
+
+
+
