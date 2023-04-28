@@ -1,4 +1,4 @@
-## Medium 
+## Hard
 
 | No  | Title                                                    | Solution |
 | --- | -----                                                    | -------  |
