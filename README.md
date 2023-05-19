@@ -13,7 +13,7 @@
 ## Testimonials? 
 - We have had amazing reviews from people who work at Google, Amazon, Facebook, etc. You can check them on Striver’s Instagram or our Linkedin as well. So, what are you waiting for? Let’s start our journey to learn DSA today.
 
-## STEP-1: Learn the Basics
+### STEP-1: Learn the Basics
 
 1. Things to know in C++
    - User Input / Output
@@ -40,3 +40,8 @@
 
 6. Learn Basic Hashing
    - 2-Q
+
+### STEP-2: Learn Important Sorting Techniques
+### STEP-3: Solve Problems on Arrays [Easy -> Medium -> Hard]
+### STEP-4: Binary Search [1D, 2D Arrays, Search Space]
+### STEP-5: Strings [Basic and Medium]
