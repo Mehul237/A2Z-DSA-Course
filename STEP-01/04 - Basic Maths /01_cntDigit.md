@@ -46,7 +46,8 @@ int countDigits(int n) {
 	int cnt = 0;
 
 	while(n > 0) {
-		int lastDigit = n % 10;
+
+		// int lastDigit = n % 10;    --> Not mandatory to write this, If replace this code also work
 		cnt += 1;
 		n = n / 10;
 	}	
