@@ -1,4 +1,38 @@
 
+[Merge two Sorted array (CN) - Brute force approach (Set, Map)](https://www.codingninjas.com/studio/problems/sorted-array_6613259?leftPanelTabValue=PROBLEM)
+
+```cpp
+
+#include <bits/stdc++.h>
+
+vector < int > sortedArray(vector < int > a, vector < int > b) {
+    
+    int n1 = a.size();
+    int n2 = b.size();
+
+    set<int>st;
+
+    for(int i=0; i<n1; i++) {
+        st.insert(a[i]);
+    }
+
+    for(int i=0; i<n2; i++) {
+        st.insert(b[i]);
+    }
+
+    vector<int>ans;
+
+    for(auto it : st) {
+        ans.push_back(it);
+    }
+
+    return ans;
+}
+
+```
+
+<br>
+
 [Merge two Sorted array (CN) - Optimal (2-pointer)](https://www.codingninjas.com/studio/problems/sorted-array_6613259?leftPanelTabValue=PROBLEM)
 
 
