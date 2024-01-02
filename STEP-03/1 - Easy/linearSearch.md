@@ -1,6 +1,7 @@
 
-// GFG -> https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1
+## [GFG - Who will win](https://practice.geeksforgeeks.org/problems/who-will-win-1587115621/1) 
 
+```cpp
 class Solution {
     public:
   
@@ -15,10 +16,13 @@ class Solution {
     }
 };
 
+```
 
 
 
-// Coding Ninja -> https://www.codingninjas.com/codestudio/problems/linear-search_6922070?leftPanelTab=0
+## [Coding Ninja - Linear search](https://www.codingninjas.com/codestudio/problems/linear-search_6922070?leftPanelTab=0) 
+
+```cpp
 
 int linearSearch(int n, int num, vector<int> &arr) {
     for(int i=0; i<n; i++) {
@@ -28,3 +32,5 @@ int linearSearch(int n, int num, vector<int> &arr) {
     }
     return -1;
 }
+
+```
