@@ -17,9 +17,6 @@
 --------------------------------------------------------
 
 
-<br>
-
-
  ### Implementation,
  
 ```cpp
@@ -98,8 +95,9 @@ int main() {
 >  2. In the worst case, all the given array elements will be non-zero.
 --------------------------------------------------------------------------------------------------------------------
 
+<br>
 
- ### 01 - Optimal approach
+ ### 02 - Optimal approach
  --------------------------------
 
  ### Algorithm,
@@ -114,7 +112,7 @@ int main() {
       
   ```Step-04:```  Finally, our array will be set in the right manner
 
-
+<br>
 
 [Coding Ninja](https://www.codingninjas.com/studio/problems/ninja-and-the-zero-s_6581958)
 
@@ -148,11 +146,7 @@ vector<int> moveZeros(int n, vector<int> a) {
 
 ```
 
-
-
-
-
-
+<br>
 
 [Leetcode](https://leetcode.com/problems/move-zeroes/description/)
 
@@ -188,3 +182,17 @@ public:
 };
 
 ```
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+>  <em> **Time Complexity:**  </em> O(N)   <br>
+>
+>> We have used 2 loops and using those loops, we are basically traversing the array once
+>> 
+>> 
+>  <em> **Space Complexity:** </em> O(1)
+> 
+>>  - O(1) as we are not using any extra space to solve this problem
+>>    
+--------------------------------------------------------------------------------------------------------------------
