@@ -97,3 +97,94 @@ int main() {
 >  1. The temp array stores the non-zero elements.
 >  2. In the worst case, all the given array elements will be non-zero.
 --------------------------------------------------------------------------------------------------------------------
+
+
+ ### 01 - Optimal approach
+ --------------------------------
+
+ ### Algorithm,
+  ```Step-01:```   First, using a loop, we will place the pointer j. If we don’t find any 0, we will not perform the following steps <br>
+  
+  ```Step-02:```   After that, we will point i to index j+1 and start moving the pointer using a loop <br>
+  
+  ```Step-03:```   While moving the pointer i, we will do the following:  <br>
+   -  If a[i] != 0 i.e. a[i] is a non-zero element:   <br>
+      We will swap a[i] and a[j]. Now, the current j is pointing to the non-zero element a[i] <br>
+      So, we will shift the pointer j by 1 so that it can again point to the first zero  <br>
+      
+  ```Step-04:```  Finally, our array will be set in the right manner
+
+
+
+[Coding Ninja](https://www.codingninjas.com/studio/problems/ninja-and-the-zero-s_6581958)
+
+```cpp
+
+vector<int> moveZeros(int n, vector<int> a) {
+    
+    // find the zero element fist
+    int j = -1;
+
+    for(int i=0; i<n; i++) {
+        if(a[i] == 0) {
+            j = i;
+            break;
+        }
+    }
+    
+    // nz element present in the arr
+    if ( j == -1) 
+      return a;
+    
+    for(int i=j+1; i<n; i++) {
+        if(a[i] != 0) {
+            swap(a[i], a[j]);
+            j++;
+        }
+    }
+    
+    return a;
+}
+
+```
+
+
+
+
+
+
+
+[Leetcode](https://leetcode.com/problems/move-zeroes/description/)
+
+```cpp
+
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+
+        int j = -1;
+        int n = nums.size();
+        
+        // Find the first zero elements, J pointer
+        for(int i=0; i<n; i++) {
+            if(nums[i] == 0) {
+                j = i;
+                break;
+            }
+        }
+         
+        // If not found any zero elements then return original vector
+        if( j == -1)
+          return;
+        
+        // Find the nz elements and perform swap. After that Also increment j++ 
+        for(int i=j+1; i<n; i++) {
+            if(nums[i] != 0) {
+                swap(nums[i], nums[j]);
+                j++;
+            }
+        }
+    }
+};
+
+```
