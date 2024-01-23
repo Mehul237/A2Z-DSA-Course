@@ -1,4 +1,4 @@
-### (2) Tabulation (Bottom - Top, Base case to Main problem, Loop)
+### (3) Tabulation (Bottom - Top, Base case to Main problem, Loop)
 
 ```cpp
 
