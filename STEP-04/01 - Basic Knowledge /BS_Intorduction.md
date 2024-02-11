@@ -1,3 +1,4 @@
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -98,39 +99,28 @@ int upperBound_Implementation(vector<int>arr, int target) {
 }
 
 
+
 int main() {
    
  // 01 - BS Implementation through Iterative and Recursive way
-
    int arr[] = { 1, 3, 7, 9, 211, 237, 269 };
-
    cout << "Iterative-way: " << BSFindIterative(arr, 7, 237)  << "\n";
-
    cout << "Recursive-way: " << BSFindRecursive(arr, 7, 0, 7-1, 237) << "\n";
 
 
 // 02 - Lower & Upper bound Implementation.
 
 // Lower Bound
-
   vector<int> v1 = {1, 2, 3, 3, 5, 8, 8, 10, 10, 11};
-
   cout << "LowerBound-Implementation: " << lowerBound_Implementation(v1, 10) << "\n";
-
   cout << "In-built STL Fn: "<< lower_bound(v1.begin(), v1.end(), 10) - v1.begin() << "\n";
 
 
 // Upper Bound 
-
   vector<int> v2 = {1, 2, 3, 3, 5, 8, 8, 10, 10, 11};
-
   cout << "UpperBound-Implementation: " << upperBound_Implementation(v2, 269) << "\n";   
-
   cout << "In-built STL Fn: "<< upper_bound(v2.begin(), v2.end(), 269) - v2.begin();
    
-  
-
-
-
   return 0;
 }
+```
