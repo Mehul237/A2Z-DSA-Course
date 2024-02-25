@@ -2,7 +2,7 @@ Sequence Containers:
   -- implement data structures that can be accessed in a sequential manner
     
  (1) vector
- (2) list
+ (2) list -- doubly linked list
  (3) deque
  (4) arrays
- (5) forward_list( Introduced in C++11)
+ (5) forward_list -- singly linked list
