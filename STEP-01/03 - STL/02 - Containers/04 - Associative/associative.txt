@@ -1,1 +1,7 @@
+Associative Containers: 
+-- implement sorted data structures that can be quickly searched (O(log n) complexity).
 
+(1) set
+(2) multiset
+(3) map
+(4) multimap
