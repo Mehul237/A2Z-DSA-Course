@@ -1,1 +1,4 @@
-
+(1) Cheatsheet: 
+             -- https://www.geeksforgeeks.org/cpp-stl-cheat-sheet/#T2
+(2) Algorithms library: 
+             -- https://www.geeksforgeeks.org/algorithms-library-c-stl/
