@@ -1,0 +1,13 @@
+List:
+-----
+
+(1) Lists are sequence containers that allow non-contiguous memory allocation. 
+(2) As compared to the vector, the list has slow traversal, but once a position has been found, insertion and deletion are quick (constant time). 
+(3) Normally, when we say a List, we talk about a doubly linked list. For implementing a singly linked list, we use a forward_list.
+
+Points to Remember about List Container:
+- It is generally implemented using a dynamic doubly linked list with traversal in both directions.
+- Faster insert and delete operation as compared to arrays and vectors.
+- It provides only sequential access. Random Access to any middle element is not possible
+- It is defined as a template so it is able to hold any data type.
+- It operates as an unsorted list would, which implies that by default, the list’s order is not preserved. However, there are techniques for sorting.
