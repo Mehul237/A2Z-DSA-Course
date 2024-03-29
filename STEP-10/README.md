@@ -2,6 +2,7 @@
 ## Sliding window technique
 
 Learning, <br>
+ - [QuanticDev - Algorithm / SWT explain in detail](https://youtu.be/jM2dhDPYMQM?feature=shared) 
  - [GFG Article -- What, How to use, How to Identify, Use case and Practice problem](https://www.geeksforgeeks.org/window-sliding-technique/)
 
 <br>
