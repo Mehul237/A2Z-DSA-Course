@@ -1,47 +1,30 @@
-# A2Z-DSA-Course
+## A2Z-DSA-Course
 
-- This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses, the only thing we don’t provide is doubt support, but trust me our YouTube video comments resolve that as well, we have a wonderful community of 250K+ people who engage in all of the videos.
 
-- There might be a lot of existing courses/sheets in the market, but this is better in terms of structure, and the number of questions we will be doing. We just don’t teach the basics, we cover all the varieties, and we go in super depth for each topic, so that you are well prepared for any of your interviews.
+<img width="166" alt="Screenshot 2024-03-29 134027" src="https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/5ae3554f-0889-400b-8835-98afc3a8addd">
 
-## Disclaimer: 
-- If you know DSA, and you have limited time to prepare for interviews, we recommend you to do the crisp and handpicked Striver’s SDE Sheet, which is used by almost everyone who prepares for FAANG and other companies.
+ Step number | Pattern (Problems)  | Completed or not?
+ --- | --- | ---
+ 01 - Learn the Basics | [31]()   | Revise
+ 02 - Sorting Technique | [07]()  | Revise
+ 03 - Array | [40]()              | Working progress -- Medium & Hard
+ 04 - Binary Search | [32]()       | 
+ 05 - Strings | [15]()           | 02 - Progress task
+ 06 - <b> ''LinkedList''</b> | [31]() |
+ 07 - Recursion | [25]()  |
+ 08 - Bit Manipulation | [18]() |  01 - Progress task
+ 09 - <b> ''Stack and Queue'' </b> | [30]() |
+ 10 - Two pointer and Sliding Window | [31]() | 03 - Progress task
 
-## Why trust the course? 
-- This is a course/sheet which is prepared by Raj Vikramaditya A.K.A Striver, Candidate Master, 6*, who currently works at Google Warsaw. He had offers from Facebook London, and prior to this, he worked at Media.net(Directi). He has also interned at Amazon India. His channel takeUforward is currently India’s No.1 channel in the DSA niche when you talk about views generated every month.
 
-## Testimonials? 
-- We have had amazing reviews from people who work at Google, Amazon, Facebook, etc. You can check them on Striver’s Instagram or our Linkedin as well. So, what are you waiting for? Let’s start our journey to learn DSA today.
+ ##  Insightful Guidance
 
-### STEP-1: Learn the Basics
+ ### LinkedIn
+  - [Aishwarya Mahapatra -- Google prep. Post](https://www.linkedin.com/feed/update/urn:li:activity:7179348061658177536/)
 
-1. Things to know in C++
-   - User Input / Output
-   - Data Types
-   - If-else statements
-   - Switch statements
-   - What is are Arrays & String?
-   - For-Loops
-   - While-Loops
-   - Function ( Pass by value & Reference )
-   - Complexity (Learn Basics and Then analyse in next Steps)
-   
-2. Build-Up-Logical Thinking
-   - Do all this Patterns
+ ### Roadmap related to Placement prep
+  - [Interview prep resources - Drishty Ganatra](https://docs.google.com/spreadsheets/d/1uQRYubklnnHRujcP8xnE2_APAXzGeCO1pMFuhOiGGmk/edit?source=post_page-----f4bf8028c6d4--------------------------------#gid=574605606)
 
-3. Learn STL
-   - Striver / Utkarsh
-
-4. Know Basic Maths
-   - 7-Q
-
-5. Learn Basic Recursion
-   - 9-Q
-
-6. Learn Basic Hashing
-   - 2-Q
-
-### STEP-2: Learn Important Sorting Techniques
-### STEP-3: Solve Problems on Arrays [Easy -> Medium -> Hard]
-### STEP-4: Binary Search [1D, 2D Arrays, Search Space]
-### STEP-5: Strings [Basic and Medium]
+ ### Core - Subject
+  - OOP'S: [Sheet by Fraz](https://docs.google.com/spreadsheets/d/1j05cmJ5JI8O9S4bIdKbw_jd0Y4KMZ_5liwyL8vjEbCw/edit#gid=0)
+  
