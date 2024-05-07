@@ -1,5 +1,6 @@
 
 ### Q2: No of ways to place the queen
+![N-Queen Backtracking](https://drive.google.com/uc?export=view&id=1RZSwPE72RyFHrbHtDWq_B6R6ffeAdqRz)
 
 ```cpp
 #include <bits/stdc++.h>
@@ -79,4 +80,14 @@ int main() {
 
   return 0;
 }
+```
+
+### Q3: AZ Workshop 
+
+![Question - AZ Workshop](https://drive.google.com/uc?id=1NH7yfiDsuqMPKjUmtfsydr1exOdBcCzZ)
+
+```cpp
+
+-- 
+
 ```
