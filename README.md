@@ -1,5 +1,8 @@
 ## A2Z-DSA-Course
 
+![Description](https://drive.google.com/uc?export=view&id=1h4pIuUI74StQRxcVvPpGitLgn_hcosR9)
+
+<br>
 
 <img width="166" alt="Screenshot 2024-03-29 134027" src="https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/5ae3554f-0889-400b-8835-98afc3a8addd">
 
