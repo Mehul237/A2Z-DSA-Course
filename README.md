@@ -2,7 +2,11 @@
 
 ![Image](https://drive.google.com/uc?id=1B4YSuC7KJzJO9FStjU-vAUfSJRY4Gjy8)
 
-<br>
+<hr>
+
+![Image](https://drive.google.com/uc?id=1QvUeKCtYGJk8r0tEVpxZsBHUNeCEQmhP)
+
+<hr>
 
 <img width="166" alt="Screenshot 2024-03-29 134027" src="https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/5ae3554f-0889-400b-8835-98afc3a8addd">
 
@@ -19,6 +23,7 @@
  09 - <b> ''Stack and Queue'' </b> | [30]() |
  10 - Two pointer and Sliding Window | [31]() | 03 - Progress task
 
+<hr>
 
  ##  Insightful Guidance
 
