@@ -1,6 +1,6 @@
 ## A2Z-DSA-Course
 
-![Description](https://drive.google.com/uc?export=view&id=1h4pIuUI74StQRxcVvPpGitLgn_hcosR9)
+![Image](https://drive.google.com/uc?id=1B4YSuC7KJzJO9FStjU-vAUfSJRY4Gjy8)
 
 <br>
 
