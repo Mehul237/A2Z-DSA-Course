@@ -1,4 +1,3 @@
-
 ## Valid Parenthesis
 
 ![Screenshot 2024-05-31 082133](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/cd949d3b-e854-4df6-90ba-df08369e5aed)
