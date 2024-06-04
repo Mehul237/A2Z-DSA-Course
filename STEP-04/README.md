@@ -1,2 +1,1 @@
-
-![BS](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/1f912bed-ac9b-4003-b599-f214cfbdb327)
+![BS Workshop](https://d3pdqc0wehtytt.cloudfront.net/courses/594c8adf-016d-4cfa-9a7b-a1af766bfcd6.png)
