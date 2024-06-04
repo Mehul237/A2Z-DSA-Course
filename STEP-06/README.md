@@ -1,4 +1,4 @@
-![LinkedList Atomic Techniques](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/76775c2b-cf0d-4a39-8218-df0b9c423e60)
+![LinkedList Atomic Techniques](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/1e728a10-9f98-4765-ad02-cee13a526598)
 
 
 Basic Learning stuff and easy to medium question tackle things in iterative and recursice ways, <br>
