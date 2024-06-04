@@ -1,4 +1,0 @@
-
-STL Learn: https://www.geeksforgeeks.org/the-c-standard-template-library-stl/?ref=shm
-STL Interview: https://www.geeksforgeeks.org/cpp-stl-interview-questions/?ref=shm
-STL Cheatsheet: https://www.geeksforgeeks.org/cpp-stl-cheat-sheet/?ref=shm
