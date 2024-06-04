@@ -1,1 +1,1 @@
-![Graph -- MAANG (UG)](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/36efd25a-5458-4c35-9f3b-ba6a248f5e09)
+![Graph -- MAANG (UG)](https://d3pdqc0wehtytt.cloudfront.net/courses/49bbaa38-2f3d-43d8-92ed-26b46e2579e4.png)
