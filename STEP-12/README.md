@@ -1,3 +1,5 @@
+![Greedy algo -- MAANG (UG)](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/a61ea12f-58c0-4341-a989-098d24aabd84)
+
 
 Resource,
   1. [Love Babbar -- One shot video](https://youtu.be/HZOUwKCKF5o?feature=shared)
