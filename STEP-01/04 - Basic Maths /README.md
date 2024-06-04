@@ -82,7 +82,5 @@ bitset<T> binary(unsigned long long n) {
 
 ## [Complete from -- MAANG (UG) Free content](https://maang.in/courses/Modular-Arithmetic-113?tab=chapters)
 
-![Modular Arithmetic -- MAANG (UG)](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/241995fc-e59e-4811-844b-2ea91d219111)
-
 ![Modular Arithmetic -- MAANG (UG)](https://d3pdqc0wehtytt.cloudfront.net/courses/579be0b5-90de-41dc-a426-15b8ddcd8257.png)
 
