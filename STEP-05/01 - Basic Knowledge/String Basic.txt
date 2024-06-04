@@ -1,1 +1,36 @@
 
+------------------------------------------------
+ size() - getline - - Input or out - cin.ignore 
+------------------------------------------------
+
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef long long ll;
+#define nline "\n"
+
+int main() {
+
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+ 
+  int t; 
+  cin>>t;
+  
+  cin.ignore();
+------------------------------------------------------------------------------------------------------------------------
+-> ignore or discard a certain number of char from the input stream.
+
+-> It can be used with strings to ignore a specified number of characters from the input stream before reading a string
+-------------------------------------------------------------------------------------------------------------------------
+
+  while (t--) {
+    string str;
+    getline(cin, str);
+    cout << str.size() << " " << str << "\n";
+  }
+  
+  return 0;
+  
+}
