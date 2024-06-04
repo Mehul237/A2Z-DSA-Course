@@ -1,2 +1,1 @@
-![Bit Manipulation -- MAANG (UG)](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/7868e533-84c8-4102-8ee1-3c7bfcd08e7e)
-
+![Bit manipulatio -- MAANG Content](https://d3pdqc0wehtytt.cloudfront.net/courses/7f25a45b-8735-483c-88fe-ccda8d717ffc.png)
