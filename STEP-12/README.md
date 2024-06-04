@@ -1,4 +1,4 @@
-![Greedy algo -- MAANG (UG)](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/a61ea12f-58c0-4341-a989-098d24aabd84)
+![Greedy algo -- MAANG (UG)](https://d3pdqc0wehtytt.cloudfront.net/courses/9b3f8372-6f26-40dc-9130-7edf69dc8597.png)
 
 
 Resource,
