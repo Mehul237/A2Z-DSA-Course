@@ -1,5 +1,5 @@
 <hr>
 
-![DP WorkShop](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/579ecea4-f294-4b24-b35f-173a97a042e6)
+![DP Workshop](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/087de330-cd56-441c-b3ef-f62bdfd182b2)
 
 <hr>
