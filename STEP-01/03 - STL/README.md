@@ -1,4 +1,8 @@
-![STL in C++](https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/c5a79d3a-1dcd-477b-9ab1-a491192101bb)
+<hr>
+
+![Image Description](https://drive.google.com/uc?export=view&id=1A7Me99zaQwJzgpqo3UPHR3u3VQbxIgRY)
+
+<hr>
 
  - Learn: https://www.geeksforgeeks.org/the-c-standard-template-library-stl/?ref=shm
  - STL Interview: https://www.geeksforgeeks.org/cpp-stl-interview-questions/?ref=shm
