@@ -24,12 +24,10 @@
 |----|-------------------|-------------------|
 | 1  | [Basic stuff to remember](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/L1.md) | Intro, Insertion and deletion, Heapify, Heap Sort, Priority Queue |
 | 2 | [Kth largest and smallest element](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/01_Kth%20Smallest_Largest.md) | Min-heap, Max-heap (Implementation, STL) |
-| --- | [Merge k sorted arrays](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/Merge_K_Sorted_Arrays.md) | Sorted (1, 2, 3) -- Triggerred into mind that use min heap |
+| Most Important (Think: sorted, k -- min heap) | [Merge k sorted arrays](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/Merge_K_Sorted_Arrays.md) | Sorted (1, 2, 3) -- Triggerred into mind that use min heap |
 | --- | [MinCost of N ropes](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/MinCost_of_N_Ropes.md) | Take 2 element consecutive which having the first min value, Take sum and push into pq and add up to ropesCost which give the ans for that Problem -- Logic: Min-heap |
+| How to think about the problem? Optimized the problem related to time and space. Here, Space ^+ | [Kth Largest sum subarray](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/Kth_LargetSum_Subarray.md) | Generate the subarray sum for all the elements, Check if mini.size() < k then insert into mini and also check for if sum > mini.top() then pop the element and insert the sum into mini -- (Kth, Largest -- min heap) |
 | 3  | [Merge 2 binary heaps](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-11/Merge_2_BinaryMax_HEAP.md) | Heapify algo (0 or 1 based indexing), Merge logic (Two different thing push into one) |
-|    |                          | ...   |
-|    |                          | ...   |
-|    |                          | ...   |
-|    |                          | ...   |
-|    |                          | ...   |
-|    |                          | ...   |
+| --- |                          | ...   |
+| --- |                          | ...   |
+
