@@ -3,6 +3,8 @@
 
 [Quick recap - heap](https://www.scaler.com/topics/data-structures/heap-data-structure/)
 
+<hr>
+
 ### <i> (1) Min heap property </i>
 - The root of a min-heap is the smallest element in the heap
 - In a min-heap, each node is smaller than its child nodes
@@ -19,6 +21,9 @@
 
 <hr>
 
+<img width="749" alt="image" src="https://github.com/Mehul237/A2Z-DSA-Course/assets/117193057/123a60ea-81a2-4f50-a229-da6f946f90ee">
+
+<hr>
 
 | No | Problem Name      | Observation       |
 |----|-------------------|-------------------|
@@ -31,3 +36,4 @@
 | --- |                          | ...   |
 | --- |                          | ...   |
 
+<hr>
