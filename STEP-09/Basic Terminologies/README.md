@@ -22,19 +22,19 @@
 | . |            |                                       |    |
 | . |            |                                       |    |
 | . |            |                                       |    |
-| 05 |            | Implement 2 stack in array | [One stack growing towards the end of the array and the other towards the beginning](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-09/Basic%20Terminologies/Stack_L1.md) |
+| 05 | [Medium](https://www.naukri.com/code360/problems/two-stacks_983634?leftPanelTab=0%3Fsource%3Dyoutube&campaign=YouTube_CodestudioLovebabbar5thfeb) | Implement 2 stack in array | [One stack growing towards the end of the array and the other towards the beginning](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-09/Basic%20Terminologies/Stack_L1.md) |
 |     |            | Implement [N stack](https://youtu.be/lrSXKLmnMV8?feature=shared) in array | 1-Divide into equal size (Spaced not optimized), 2-|
 | .  |            |                                       |    |
 | . |            |                                        |    |
 | . |            |                                       |    |
 | . |            |                                       |    |
-| 06  |            | Valid_Parenthesis | [Maintain one by one element -- Push and compare current ch to top](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-09/Basic%20Terminologies/Valid_Parenthesis.md) |
+| 06  | [Easy](https://leetcode.com/problems/valid-parentheses/description/) | Valid_Parenthesis | [Maintain one by one element -- Push and compare current ch to top](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-09/Basic%20Terminologies/Valid_Parenthesis.md) |
 | . |            |                                       |    |
 | . |            |                                       |    |
 | . |            |                                       |    |
 | . |            |                                       |    |
-| 07 |            | Next smaller element | [Use a stack to track decreasing elements, allowing constant-time access to the next smaller element during traversal. Iterate through the array from right to left to efficiently find the next smaller element for each element](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-09/Basic%20Terminologies/Next_Smaller_Element.md) |
-|    |            | Largest Rectangular Area in Histogram | 1. NextSmaller, prevSmaller logic used  [2. Two pass](https://youtu.be/X0X6G-eWgQ8?feature=shared) [One pass](https://youtu.be/jC_cWLy7jSI?feature=shared) |
+| 07 | [Medium](https://www.naukri.com/code360/problems/next-smaller-element_1112581?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0%3Fsource%3Dyoutube&campaign=Lovebabbarcodestudio) | Next smaller element | [Use a stack to track decreasing elements, allowing constant-time access to the next smaller element during traversal. Iterate through the array from right to left to efficiently find the next smaller element for each element](https://github.com/Mehul237/A2Z-DSA-Course/blob/main/STEP-09/Basic%20Terminologies/Next_Smaller_Element.md) |
+|    | [Hard](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | Largest Rectangular Area in Histogram | 1. NextSmaller, prevSmaller logic used  [2. Two pass](https://youtu.be/X0X6G-eWgQ8?feature=shared) [One pass](https://youtu.be/jC_cWLy7jSI?feature=shared) |
 | . |            |                                       |    |
 | . |            |                                       |    |
 | . |            |                                       |    |
