@@ -1,4 +1,3 @@
-
 [Iterative pre-order traversal](https://youtu.be/Bfqd8BsPVuw?feature=shared)
 
 <hr>
