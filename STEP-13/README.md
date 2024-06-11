@@ -1,4 +1,7 @@
 
+<hr>
+
+![MAANG](https://d3pdqc0wehtytt.cloudfront.net/courses/ae272542-b68b-4294-8975-8215ef85d82f.png)
 
 <hr>
 
