@@ -28,6 +28,19 @@
 <hr>
 <br>
 
+Condition,
+- If KeyValue is smaller than Root,
+  1. Go to left subtree (Predecessor)
+  2. Otherwise go to right subtree (Successor)
+
+Statement,
+- Predecessor of Node FindX will be
+  Right most element , (in the left subtree -- Condition)
+  
+- Successor of Node FindX will be
+  Left most element, (in the right subtree -- Condition)
+
+
 ```cpp
 
 
