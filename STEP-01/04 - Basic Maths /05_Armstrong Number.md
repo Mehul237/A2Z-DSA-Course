@@ -44,3 +44,33 @@ int main() {
 //
 // SC: O(1) since no extra space is required
 ```
+
+
+<br>
+
+[Armstrong number -- GFG](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1)
+
+<hr>
+
+```cpp
+
+class Solution {
+  public:
+    string armstrongNumber(int n) {
+        int temp = n;
+        int sum = 0;      // cube of digits
+        
+        while(temp != 0) {
+            int lastDigit = temp % 10;
+            sum += (lastDigit * lastDigit * lastDigit);
+            temp /= 10;   // Update temp to remove last digit
+        }
+        return sum == n? "true": "false";
+    }
+};
+
+// TC: O(1)
+// SC: O(1)
+```
+
+<hr>
