@@ -1,4 +1,25 @@
 
+## Brute force approach
+- Using left and right array and find max of it and return ans
+
+## Better approach
+- Only help of left array and find the max of it and add into sum
+- Elininate the right part to solve problem in efficient manner
+
+## Optimal approach
+- Slope method
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
 [Shop in Candy Store](https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1)
 
 <hr>
