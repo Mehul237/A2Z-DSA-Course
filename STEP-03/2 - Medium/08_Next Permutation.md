@@ -15,7 +15,12 @@ Output: 132
 <hr>
 <br>
 
+![Screenshot 2024-10-18 044430](https://github.com/user-attachments/assets/e7b5b182-ebda-473b-9946-58fa5b24848c)
+
+
 ```cpp
+// TC: O(N)
+// SC: O(1)
 
 class Solution {
  public:
